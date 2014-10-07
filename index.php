@@ -23,7 +23,6 @@
 		}
 	}
 ?>
-<!DOCTYPE html>
 <html lang="gb">
 	<head>
 		<title><?php echo $title; ?></title>
