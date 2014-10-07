@@ -1,0 +1,9 @@
+#header,#content,#footer {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+#error {
+	width: 40%;
+	margin: auto;
+}
